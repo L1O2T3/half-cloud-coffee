@@ -91,7 +91,7 @@ async function initializeData() {
     ];
 
     const defaultUsers = [
-      { id: 'u1', phone: '123', password: 'WILL123', role: 'ADMIN', name: '超级管理员' },
+      { id: 'u1', phone: '18257508817', password: 'WILL123', role: 'ADMIN', name: '超级管理员' },
       { id: 'u2', phone: '13800138000', password: 'password', role: 'STAFF', name: '店员小李' }
     ];
 
